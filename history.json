@@ -1,0 +1,31 @@
+[
+  {
+    "payer": "1",
+    "people": 1,
+    "items": [
+      {
+        "name": "пицца 67",
+        "qty": 1,
+        "price": 500
+      },
+      {
+        "name": "ыф",
+        "qty": 2,
+        "price": 1221
+      }
+    ],
+    "total": 2942
+  },
+  {
+    "payer": "1",
+    "people": 1,
+    "items": [
+      {
+        "name": "Еденицца",
+        "qty": 1,
+        "price": 500
+      }
+    ],
+    "total": 500
+  }
+]
